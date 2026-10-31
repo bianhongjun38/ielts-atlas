@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-ssr/
+*.local
+.local/
+.DS_Store
+Thumbs.db
+*.log
+_shot_*.png
+_probe*.mjs
+.vite/
